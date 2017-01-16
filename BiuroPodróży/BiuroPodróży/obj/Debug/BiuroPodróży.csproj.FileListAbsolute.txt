@@ -1,0 +1,13 @@
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\bin\Debug\BiuroPodróży.exe.config
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\bin\Debug\BiuroPodróży.exe
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\bin\Debug\BiuroPodróży.pdb
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\MainWindow.baml
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\MainWindow.g.cs
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\App.g.cs
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży_MarkupCompile.cache
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży.g.resources
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży.Properties.Resources.resources
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży.csproj.GenerateResource.Cache
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży.exe
+C:\Users\local\Desktop\WiktorŁopatka\BiuroPodróży\BiuroPodróży\obj\Debug\BiuroPodróży.pdb
